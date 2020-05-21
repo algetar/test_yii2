@@ -1,0 +1,21 @@
+table {
+    width: 100%;
+    padding: 0;
+}
+
+th {
+    font-weight: 800;
+    text-align: center;
+}
+
+td {
+    vertical-align: top;
+}
+
+.ingredients {
+    width: 210px;
+}
+
+h1, h2 {
+    text-align: center;
+}
